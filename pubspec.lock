@@ -63,7 +63,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_hooks:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_hooks
       url: "https://pub.dartlang.org"
@@ -89,7 +89,7 @@ packages:
     source: hosted
     version: "0.14.2"
   hooks_riverpod:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: hooks_riverpod
       url: "https://pub.dartlang.org"
